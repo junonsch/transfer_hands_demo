@@ -1,0 +1,9 @@
+matplotlib
+numpy
+optuna
+pandas
+pickle
+sklearn
+torch
+torchvision
+wandb

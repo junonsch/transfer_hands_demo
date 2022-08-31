@@ -1,0 +1,10 @@
+method: bayes
+metric:
+        goal: minimize
+        name: val_epoch_loss 
+parameters:
+        learning_rate:
+                distribution: uniform
+                max: 0.2
+                min: 0.0005
+program: resnet_run.py
