@@ -4,6 +4,4 @@
 /notebooks/.ipynb_checkpoints/*
 /resnet34/.ipynb_checkpoints/*
 /custom/.ipynb_checkpoints/*
-*.pt
-*.pkl
 wandb/
